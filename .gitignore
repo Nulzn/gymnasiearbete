@@ -29,8 +29,11 @@ yarn-error.log*
 .env*.local
 .env
 
-#Middleware
+# Middleware
 .middleware.ts
+
+# Notes
+.Notes.md
 
 # vercel
 .vercel
